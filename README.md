@@ -37,3 +37,5 @@ Over the past 5–10 years, laboratories such as NIST (USA), JILA (USA), PTB (Ge
 
 👉 In short:
 Quantum technologies demand atomic-scale precision – and isotopically engineered materials are a key enabler for making the next generation of qubits, quantum networks, and sensors both stable and scalable.
+
+“With this project, I aim to analyze and connect different aspects of quantum technology and isotope research to highlight their interdependencies and future potential.”
